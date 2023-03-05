@@ -28,7 +28,7 @@ Usage: ./cell [FILE]
 Create a cell world with FILE ('cell.cfg' in current directory by default).
 ```
 
-Scroll mouse wheel can zoom the view port. And press mouse left button and move mouse can drag the view port.
+Scroll mouse wheel can zoom the view port. Press mouse left button and move mouse can drag the view port.
 
 滚动鼠标滚轮可以缩放视野，按住鼠标左键移动鼠标可以拖动视野。
 
