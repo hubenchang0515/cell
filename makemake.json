@@ -1,0 +1,15 @@
+{
+    "targets": [
+        {
+            "type": "executable",
+            "name": "cell",
+            "cc": "gcc",
+            "cflags": "-O2 -W -Wall -Wextra",
+            "libs": "-lSDL2",
+            "libs.windows": "-lmingw32 -lSDL2main -lSDL2",
+            "sources": [
+                "main.c"
+            ]
+        }
+    ]
+}
