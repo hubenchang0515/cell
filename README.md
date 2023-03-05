@@ -1,6 +1,8 @@
 # cell
 cellular automata (left game) - 元胞自动机（生命游戏）
 
+<iframe src="//player.bilibili.com/player.html?aid=610527769&bvid=BV1184y1K7kr&cid=1040881319&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## Build / 构建
 
 ```
